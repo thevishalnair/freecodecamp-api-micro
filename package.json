@@ -1,0 +1,19 @@
+{
+  "name": "api-microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theVishalNair/freecodecamp-api-micro.git"
+  },
+  "author": "Vishal Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theVishalNair/freecodecamp-api-micro/issues"
+  },
+  "homepage": "https://github.com/theVishalNair/freecodecamp-api-micro#readme"
+}
